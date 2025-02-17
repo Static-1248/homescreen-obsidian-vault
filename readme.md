@@ -1,5 +1,8 @@
 Home Screen Vault
 ---
+
+> **Update: I cannot spare efforts on the development of this project anymore recently. Will still be WIP for long time and TBH I myself don't see good promise in this project. Android is way too mindblowing.**
+
 A widget allowing you to browse note entries of a Obsidian vault, on home screen
 
 <img src="Preview1.png" width="300px"></img>
